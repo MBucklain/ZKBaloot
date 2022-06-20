@@ -1,0 +1,3 @@
+[submodule "front-end/react-card-game"]
+	path = front-end/react-card-game
+	url = https://github.com/shanmugharajk/react-card-game.git
